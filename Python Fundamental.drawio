@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T00:57:13.834Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Tb7H0MKcfcMsGiP2reCD" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T02:30:47.954Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="n6wqX2qhwuA74_tkAZ2Y" version="16.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="_NVKRieGiYU2cn_4KHlQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_NVKRieGiYU2cn_4KHlQ-0" target="_NVKRieGiYU2cn_4KHlQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_NVKRieGiYU2cn_4KHlQ-0" value="Ibu Memerintah budi untuk membeli susu" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="_NVKRieGiYU2cn_4KHlQ-0" value="Ibu memberi perintah &quot;Beli 1 botol susu&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="150" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_NVKRieGiYU2cn_4KHlQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_NVKRieGiYU2cn_4KHlQ-1" target="_NVKRieGiYU2cn_4KHlQ-2" edge="1">
@@ -47,16 +47,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_NVKRieGiYU2cn_4KHlQ-10" value="Anak pulang ke rumah" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3eRhwieg9elXLN7xG3Ap-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_NVKRieGiYU2cn_4KHlQ-11" target="_NVKRieGiYU2cn_4KHlQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_NVKRieGiYU2cn_4KHlQ-11" value="Menyerahkan hasil belanjaanya kepada ibu" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_NVKRieGiYU2cn_4KHlQ-13" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3eRhwieg9elXLN7xG3Ap-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_NVKRieGiYU2cn_4KHlQ-14" target="3eRhwieg9elXLN7xG3Ap-5">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="_NVKRieGiYU2cn_4KHlQ-15" value="Anak membeli satu botol susu" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3eRhwieg9elXLN7xG3Ap-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3eRhwieg9elXLN7xG3Ap-5" target="3eRhwieg9elXLN7xG3Ap-6">
+        <mxCell id="3eRhwieg9elXLN7xG3Ap-8" value="Ada" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3eRhwieg9elXLN7xG3Ap-5" target="3eRhwieg9elXLN7xG3Ap-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3eRhwieg9elXLN7xG3Ap-10" value="Tidak" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3eRhwieg9elXLN7xG3Ap-5" target="_NVKRieGiYU2cn_4KHlQ-15">
@@ -80,10 +80,12 @@
           <mxGeometry x="374" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3eRhwieg9elXLN7xG3Ap-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3eRhwieg9elXLN7xG3Ap-6" target="_NVKRieGiYU2cn_4KHlQ-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="630" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="3eRhwieg9elXLN7xG3Ap-6" value="Anak membeli 6 botol susu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="3eRhwieg9elXLN7xG3Ap-6" value="Anak membeli 6 butir telur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="554.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
